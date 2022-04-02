@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "achu",
+      "email": "achu24@gmail.com",
+      "password": "achu234",
+      "id": 1
+    },
+    {
+      "email": "Agbama@gmail.com",
+      "password": "gghj234",
+      "name": "Joseph Agbama",
+      "id": 2
+    },
+    {
+      "email": "Agbama@gmail.com",
+      "password": "gghj234",
+      "name": "Joseph Agbama",
+      "id": 3
+    },
+    {
+      "email": "bjsjj@jifj.com",
+      "password": "huwhwkejk",
+      "name": "hskjlksl",
+      "id": 4
+    },
+    {
+      "email": "hsjwjwkl",
+      "password": "jishk",
+      "name": "hbwjhj",
+      "id": 5
+    },
+    {
+      "email": "nyen4@gmail.com",
+      "password": "nyen123",
+      "name": "nyen",
+      "id": 6
+    },
+    {
+      "email": "rehana4@gmail.com",
+      "password": "jkykjwqjklwqj",
+      "name": "huyuiiu",
+      "id": 7
+    },
+    {
+      "email": "rehhsana4@gmail.com",
+      "password": "jkykjwqjklwqjwjnkjwe",
+      "name": "dshkjkl",
+      "id": 8
+    },
+    {
+      "email": "mary@gmail.com",
+      "password": "mary",
+      "name": "mary",
+      "id": 9
+    },
+    {
+      "email": "rehana4@gmail.com",
+      "password": "jkykjwqjklwqj",
+      "name": "rggjh",
+      "id": 10
+    },
+    {
+      "email": "rehana4@gmail.com",
+      "password": "jkykjwqjklwqj",
+      "name": "",
+      "id": 11
+    },
+    {
+      "email": "Agnes@gmail.com",
+      "password": "Agnes123",
+      "name": "Agnes",
+      "id": 12
+    },
+    {
+      "email": "resto@yahoo.com",
+      "password": "resto",
+      "name": "resto",
+      "id": 13
+    },
+    {
+      "email": "els@gmail.com",
+      "password": "1234",
+      "name": "els",
+      "id": 14
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Cripsy Chicken",
+      "contact": "090278167837",
+      "address": "250 Ndidem isang iso",
+      "id": 1
+    },
+    {
+      "name": "De-Choice Eatery",
+      "contact": "07063604534",
+      "address": "Etim Edem Park, Mary Slessor Avenue",
+      "id": 2
+    },
+    {
+      "name": "Lucrativo",
+      "contact": "09034812345",
+      "address": "158 Etta agbor Layout, calabar Muncipality",
+      "id": 3
+    }
+  ]
+}
